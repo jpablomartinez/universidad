@@ -1,0 +1,2 @@
+gestión de proyectos;4;60;Docencia;2018
+administracion informatica;4;80;Docencia;2018

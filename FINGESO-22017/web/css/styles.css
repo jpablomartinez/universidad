@@ -1,0 +1,18 @@
+
+
+.navbar-default{
+	background-color: #1b65bc;
+	margin-bottom: 0px;
+	border-bottom-color: #f79a26;
+	
+}
+
+.navbar-nav{
+	color: #eee;
+}
+
+
+
+.navbar-inverse{
+	border-bottom-color: #f79a26;
+}

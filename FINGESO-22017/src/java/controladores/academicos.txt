@@ -1,0 +1,3 @@
+Hector;Antillanca;Academico;hector.antillanca@usach.cl;0.0
+Victor;Parada;Academico;victor.parada@usach.cl;0.0
+Fernando;Rannou;Director;fernando.rannou@usach.cl;0.0

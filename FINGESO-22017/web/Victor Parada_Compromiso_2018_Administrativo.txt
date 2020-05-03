@@ -1,0 +1,2 @@
+gestionar memoristas;4;30;Administrativo;2018
+gestionar tesistas;6;20;Administrativo;2018

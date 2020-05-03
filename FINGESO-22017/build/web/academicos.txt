@@ -1,0 +1,3 @@
+Hector;Antillanca;Academico;hector.antillanca@usach.cl;0.0;I;Fundamentos de Ingenieria de Software;Seminario de Computación e Informática;F;
+Victor;Parada;Academico;victor.parada@usach.cl;0.0;I;Administración y Gestión Informática;F;
+Fernando;Rannou;Director;fernando.rannou@usach.cl;0.0;
